@@ -1,6 +1,7 @@
 name: Redecentralize
 timezone: Europe/London
-baseurl: ""
+baseurl: /
+url: http://redecentralize-website.github.io
 gems:
   - jekyll-sitemap
 collections:
