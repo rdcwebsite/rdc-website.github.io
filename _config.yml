@@ -1,7 +1,7 @@
 name: Redecentralize
 timezone: Europe/London
-baseurl: rdc-website.github.io/
-url: https://rdcwebsite.github.io/
+baseurl: /
+url: https://rdcwebsite.github.io/rdc-website.github.io/
 gems:
   - jekyll-sitemap
 collections:
