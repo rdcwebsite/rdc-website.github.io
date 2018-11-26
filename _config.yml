@@ -1,9 +1,8 @@
 name: Redecentralize
 timezone: Europe/London
+baseurl: ""
 gems:
   - jekyll-sitemap
-sass:
-  sass_dir: _sass
 collections:
   radar:
     output: true
